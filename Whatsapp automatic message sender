@@ -1,0 +1,2 @@
+import pywhatkit as pyw
+pyw.sendwhatmsg("(country_code)(phone_number)","Hello, there! ","(time_hour)(time_min)in seconds))"
